@@ -1,0 +1,4 @@
+Model: mobilenetv2
+Unique classes in y_true: 24
+Preds shape: (337, 35)
+Error: Number of classes in y_true not equal to the number of columns in 'y_score'

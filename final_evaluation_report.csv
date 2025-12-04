@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1_Score,Confusion_Matrix_CSV,Confusion_Matrix_Plot
+mobilenetv2,0.8953880764904387,0.899191113536667,0.8953880764904387,0.8952972994266716,experiments\mobilenetv2\confusion_matrix.csv,experiments\mobilenetv2\confusion_matrix.png
+resnet50,0.41057367829021374,0.4245490562948935,0.41057367829021374,0.35662687429066214,experiments\resnet50\confusion_matrix.csv,experiments\resnet50\confusion_matrix.png
+vgg16,0.7637795275590551,0.7741420795537863,0.7637795275590551,0.7625132825049207,experiments\vgg16\confusion_matrix.csv,experiments\vgg16\confusion_matrix.png
